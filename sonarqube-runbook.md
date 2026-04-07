@@ -1,14 +1,19 @@
 SonarQube Runbook (Windows with PostgreSQL)
+## 1. Project Information
 
-1. Project Information
+SonarQube setup details:
 
 - SonarQube Version: 26.1.0 LTA
 - PostgreSQL Version: 14.19
 - VM IP Address: 172.27.59.66
-- Setup By: Shubham Chavan (ALM Team)
-- Admin Access: Onkar
+- Setup Owner: Shubham Chavan (ALM Team)
+- Administrative Access: Onkar
 
----
+## Environment Details
+
+SonarQube is installed on a virtual machine with IP address 172.27.59.66.
+
+PostgreSQL 14.19 is installed on the same machine and is used as the SonarQube database.
 
 2. Overview
 
